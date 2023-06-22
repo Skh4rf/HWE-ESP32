@@ -1,6 +1,6 @@
 # HWE-Schrittmotoransteuerung
 
-In this project you will find three demonstrative projects of increasing difficulty for driving a stepper motor via TMC2209 and controlling a HD44780-2-Line-LCD via PCF8574-I2C-I/O-Expander. 
+In this project you will find the documentation about a ESP32-Module, a ESP32 UNO-Expander and a Devboard for a ESP32-Module. 
 
 ## Documentation
-See more in our [documentation](https://github.com/Skh4rf/HWE-Schrittmotoransteuerung/tree/main/doc/Cibulka_Metzler_Schrittmotoransteuerung.pdf)
+See more in our [documentation](https://github.com/Skh4rf/HWE-ESP32/tree/main/doc/Metzler_Rupp_ESP32-Devboard_Doku.pdf)
