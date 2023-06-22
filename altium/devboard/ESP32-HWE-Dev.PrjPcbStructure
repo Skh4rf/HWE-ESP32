@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=ESP32-HWE-Dev.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ESP32-HWE-Dev.SchDoc|FileName=ESP32-HWE-Dev-I2C.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ESP32-HWE-Dev.SchDoc|FileName=ESP32-HWE-Dev-Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ESP32-HWE-Dev.SchDoc|FileName=ESP32-HWE-Dev-SPI.SchDoc|SheetNumber=2
