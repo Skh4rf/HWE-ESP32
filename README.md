@@ -1,4 +1,4 @@
-# HWE-Schrittmotoransteuerung
+# HWE ESP32-Devboard
 
 In this project you will find the documentation about a ESP32-Module, a ESP32 UNO-Expander and a Devboard for a ESP32-Module. 
 
